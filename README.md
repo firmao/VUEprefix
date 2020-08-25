@@ -1,4 +1,6 @@
-# autoprefix
+# VUEprefix
+
+Text autocomplete obtaining data from prefix.cc. Implmented in VUE js.
 
 ## Project setup
 ```
